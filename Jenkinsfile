@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    Dev-Aftab
     triggers {
         githubPush()
     }

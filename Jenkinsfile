@@ -1,5 +1,5 @@
 pipeline {
-    Dev-Aftab
+agent { label "Dev-Aftab" }
     triggers {
         githubPush()
     }
